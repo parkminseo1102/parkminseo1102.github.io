@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>봉사활동프로젝트</title>
-    <style>
+	<title>봉사활동프로젝트</title>
+    	<style>
         body {
             display: flex;
             flex-direction: column;
